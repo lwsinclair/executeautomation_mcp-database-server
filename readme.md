@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-executeautomation-mcp-database-server-badge.png)](https://mseep.ai/app/mcp-mirror-executeautomation-mcp-database-server)
+
 # MCP Database Server
 
 This MCP (Model Context Protocol) server provides database access capabilities to Claude, supporting both SQLite and SQL Server databases.
